@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">DateTime</string>
+    <string name="fromDateTimeLabel">Дата-время старта задачи:</string>
+    <string name="toDateTimeLabel">Дата-время окончания задачи:</string>
+    <string name="fromDateTimeLabelFormatted">Дата-время старта задачи: %1$s</string>
+    <string name="toDateTimeLabelFormatted">Дата-время окончания задачи: %1$s</string>
+    <string name="okLabel">OK</string>
+    <string name="startLabel">старт: </string>
+    <string name="endLabel"> окончаниe: </string>
+
+</resources>
